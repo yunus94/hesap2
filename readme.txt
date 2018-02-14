@@ -1,0 +1,1 @@
+selman kalkinç => toplama çikarma
