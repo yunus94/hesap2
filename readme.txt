@@ -1,1 +1,2 @@
-selman kalkin� => toplama �ikarma
+selman kalkinç => toplama çikarma
+yunus önal => sonuç yazdırma
